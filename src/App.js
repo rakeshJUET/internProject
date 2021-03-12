@@ -27,16 +27,12 @@ class App extends Component {
     return (
       <Router>
       <div className="App" style={{"background":"rgb(233,236,237)","height":"100vh"}}>
-            <Header/>
+      <Header/>
             <Features/>
             <Footer/>
         <Switch>
           <Route path="/source/:sourceId">
             <News/>
-          </Route>
-          <Route path="/">
-            <Header/>
-            <Features/>
           </Route>
         </Switch>
       </div>
