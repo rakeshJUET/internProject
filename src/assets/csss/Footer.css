@@ -1,0 +1,19 @@
+hr{
+	 border: 0.5px solid #ffffff;
+	 width: 100%;	
+}
+
+.col1{
+	margin-top: 2%;
+
+}
+
+h5{
+	font-size: 1.25rem;
+	/*color: #32325d;*/
+	color:#ffffff;
+	/*font-family: merriweather,open sans,sans-serif;*/
+	font-family: Montserrat,sans-serif;
+
+    font-weight: 500;
+}

@@ -1,0 +1,31 @@
+.jumb{
+	background-color: rgba(0,0,0,0);
+	margin-bottom: 15%;
+	margin-left: 5%;
+}
+
+.t1{
+	color:#32325d;
+	font-size:2.5rem;
+	font-family: merriweather,open sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.t2{
+	font-size:2.0rem;
+	font-family: merriweather,open sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.prg{
+	color: rgba(0,0,0,0.7);
+	font-size: 1.0rem;
+}
+
+.link1{
+	color: #017d4f;
+	font-weight: 700;
+    line-height: 1.5;
+}
